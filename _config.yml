@@ -102,7 +102,7 @@ cdn:
 # Example:
 # avatar: "/assets/img/avatar.jpg"
 
-avatar:
+avatar: "/assets/img/profile.jpg"
 
 
 # Social preview image
