@@ -102,7 +102,7 @@ cdn:
 # Example:
 # avatar: "/assets/img/avatar.jpg"
 
-avatar: "assets/img/github-profile-picture.png"
+avatar: "/assets/img/github-profile-picture.png"
 
 
 # Social preview image
